@@ -1,6 +1,7 @@
 # Tarkov Market App
 
 This repository contains the source code for the Tarkov Market App. The app allows you to browse and search for items from the game Escape from Tarkov.
+It utilizes the API provided by [tarkov-market](https://tarkov-market.com/)
 
 ## Installation
 
