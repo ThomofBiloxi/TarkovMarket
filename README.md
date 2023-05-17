@@ -1,7 +1,6 @@
 # Tarkov Market App
 
 This repository contains the source code for the Tarkov Market App. The app allows you to browse and search for items from the game Escape from Tarkov.
-Installation
 
 ## Installation
 
@@ -11,7 +10,7 @@ To use the Tarkov Market App, follow the steps below:
 
 Start by cloning this repository to your local machine using the following command:
 
-    git clone [https://github.com/your-username/tarkov-market-app.git](https://github.com/ThomofBiloxi/TarkovMarket.git)
+    git clone https://github.com/ThomofBiloxi/TarkovMarket.git
 
 ### Install Dependencies:
 
