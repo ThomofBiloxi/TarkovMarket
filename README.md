@@ -17,7 +17,7 @@ Start by cloning this repository to your local machine using the following comma
 
     pip install -r requirements.txt
 
-### Generate the Executable:
+### Generate the Executable ([Pyinstaller](https://pyinstaller.org/en/stable/) recommended):
 
     Open the main.spec file in a text editor.
     Replace the pathex value with the actual path to the directory where your Python files are located. For example, pathex=['/path/to/your/project'].
