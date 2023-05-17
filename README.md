@@ -4,7 +4,9 @@ This repository contains the source code for the Tarkov Market App. The app allo
 
 ## Installation
 
-To use the Tarkov Market App, follow the steps below:
+To compile the Tarkov Market App, follow the steps below.
+
+If you prefer not to compile the app yourself, you can directly download the latest precompiled .exe file from the Releases section of this repository.
 
 ### Clone the Repository: 
 
