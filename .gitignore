@@ -1,0 +1,58 @@
+# --- Python Virtual Environments ---
+venv/
+.venv/
+env/
+.env/
+ENV/
+# Add any other names you might use for virtual environments
+
+# --- Python Cache & Compiled files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- PyInstaller Files ---
+# Distribution directory
+dist/
+# Build directory
+build/
+# Spec file
+*.spec
+
+# --- User Data ---
+# Exclude the user-specific database file (it's generated at runtime)
+tarkov_data.db
+# If platformdirs creates subfolders within the user data path,
+# you generally don't ignore the top-level directory itself here,
+# but rather ensure the DB file *within* it is ignored if it could
+# accidentally end up in the repo root. The DB file should only ever
+# be created in the location specified by utils.get_user_data_dir().
+
+# --- IDE / Editor / OS Specific Files ---
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.user
+*.sln
+*.tmp
+*.bak
+*.swp
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Optional: Logs ---
+# *.log
+
+# --- Optional: Secrets/Credentials (if you ever add them) ---
+# credentials.json
+# .env
+# *.key
